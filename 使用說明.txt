@@ -1,0 +1,15 @@
+*需要在xampp環境下開啟
+
+步驟:
+
+1.請先在自己的phpMyAdmin中新增crucialtime這個資料庫
+
+2.然後將crucialtime.sql這隻檔案匯入資料庫中
+
+接著就能正常開啟檔案
+
+手機板適用iphone7 plus跟iphone8 plus的尺寸
+
+網頁檔案放在"crucialtime"資料夾中，"index_.php"為首頁
+
+*資料夾中的其他資料夾都必須一起附上，路徑勿更動
